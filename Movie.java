@@ -16,6 +16,7 @@ public class Movie {
     private String[] actors;
     private int times;
     private static int total = 0;
+    private static float burat = 1;
 
     /**
      * Constructs a Movie object with the given title, genre, and year.
